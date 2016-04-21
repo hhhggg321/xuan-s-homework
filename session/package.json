@@ -1,0 +1,21 @@
+{
+  "name": "session",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "session"
+  ],
+  "author": "xuan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "fs-extra": "^0.28.0",
+    "write-file-atomic": "^1.1.4",
+    "bagpipe": "^0.3.5",
+    "retry": "^0.9.0"
+  }
+}
